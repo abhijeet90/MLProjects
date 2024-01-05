@@ -36,6 +36,7 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 git_config.txt
+setup.txt
 
 # Unit test / coverage reports
 htmlcov/
